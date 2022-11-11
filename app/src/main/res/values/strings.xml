@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ViewModelFactoryProject</string>
+    <string name="enter_odd_number">Enter odd number</string>
+</resources>
